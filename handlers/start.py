@@ -43,7 +43,7 @@ async def start_(client: Client, message: Message):
                         "🔎 ɪɴʟɪɴᴇ 🔎", switch_inline_query_current_chat=""
                     ),
                     InlineKeyboardButton(
-                        "🤯 ᴜᴘᴅᴀᴛᴇs 🤯", url="zen_updates"
+                        "🤯 ᴜᴘᴅᴀᴛᴇs 🤯", url="t.me/zen_updates"
                     )]
             ]
        ),
